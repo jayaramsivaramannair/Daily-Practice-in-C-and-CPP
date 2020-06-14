@@ -1,3 +1,11 @@
+/*
+Write a program to receive a positive integer and find its octal equivalent.
+
+Problem Source: C Programming Challenges - Challenge 24
+*/
+
+
+
 #include <stdio.h>
 
 int main(int argc, char* argv[])
